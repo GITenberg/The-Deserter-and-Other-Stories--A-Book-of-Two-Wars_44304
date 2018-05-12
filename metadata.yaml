@@ -1,0 +1,59 @@
+_repo: The-Deserter-and-Other-Stories--A-Book-of-Two-Wars_44304
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gaul, Gilbert William
+    aliases:
+    - Gaul, William Gilbert
+    - Gaul, Gilbert
+    birthdate: 1855
+    deathdate: 1919
+    gutenberg_agent_id: '42681'
+    url: http://www.gutenberg.org/2009/agents/42681
+  - agent_name: Barnes, George Foster
+    alias: Barnes, G. F. (George Foster)
+    gutenberg_agent_id: '42682'
+    url: http://www.gutenberg.org/2009/agents/42682
+  - agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, Frank Thayer
+    - Merrill, F. T.
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+  - agent_name: Sandham, Henry
+    alias: Sandham, H. (Henry)
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '41047'
+    url: http://www.gutenberg.org/2009/agents/41047
+covers:
+- cover_type: archival
+  image_path: 44304-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Frederic, Harold
+    birthdate: 1856
+    deathdate: 1898
+    gutenberg_agent_id: '83'
+    url: http://www.gutenberg.org/2009/agents/83
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
+description: The deserter. -- A day in the wilderness. -- How Dickon came by his name.
+  -- Where Avon into Severn flows.
+gutenberg_issued: '2013-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44304'
+  lccn: '06043136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+tableOfContents: The deserter -- A day in the wilderness -- How Dickon came by his
+  name -- Where Avon into Severn flows.
+title: 'The Deserter, and Other Stories: A Book of Two Wars'
+url: http://www.gutenberg.org/ebooks/44304
