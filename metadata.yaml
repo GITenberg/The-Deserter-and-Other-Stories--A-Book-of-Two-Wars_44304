@@ -40,6 +40,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
 description: The deserter. -- A day in the wilderness. -- How Dickon came by his name.
   -- Where Avon into Severn flows.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44304#The-Deserter-and-Other-Stories--A-Book-of-Two-Wars
 gutenberg_issued: '2013-11-28'
 gutenberg_type: Text
 identifiers:
